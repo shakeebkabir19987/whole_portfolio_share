@@ -1,0 +1,249 @@
+/* header start */
+.mainheader{
+    /* margin-top: 20px; */
+    /* border: 2px solid black; */
+    /* height: 50px; */
+    /* font-weight: bolder; */
+    background-color: black;
+    
+}
+.h1{
+    border: 2px solid black;
+    height: 50px;
+    font-weight: 900;
+    text-decoration: none;
+    padding-left: 70px;
+    padding-top: 15px; 
+}
+.lheader{
+    margin-left: 700px;
+    color: white;
+    
+}
+.lheader a{
+  
+    color: white;
+}
+a:hover{
+    color: red;
+}
+.h1 a{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+@media screen and (max-width: 1340px) and (min-width: 50px) {
+    #con, skil, ser, about {
+        color: yellow;
+         margin-left: 500px;
+    }
+  }
+
+
+/* header ended */
+
+/* banner started */
+ .banner{
+    border: 2px solid black;
+    height: 560px;
+ }
+
+.intro{
+    margin-top: 150px;
+    
+    margin-left: 80px;
+    /* font-weight: bolder; */
+    font-size: larger;
+}
+.name{
+   
+    color: white;
+    font-size: xx-large;
+    
+   
+}
+
+.position{
+    
+    font-weight: bolder;
+    color: white;
+    
+}
+
+.pic{
+ 
+    margin-top: -550px;
+    margin-left: 900px;
+    border-radius: 50px;
+}
+
+/* banner endeed */
+
+/* about me start */
+.aboutme{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    margin-top: -5px;
+    /* border: 1px solid white; */
+}
+.pic2{
+    width: 350px;
+    height: 410px;
+    /* border: 1px solid white; */
+    margin-left: 130px;
+    margin-top: 70px;
+    border-radius: 60px;
+}
+.aboutme2{
+
+/* border: 2px solid white; */
+width: 500px;
+height: 420px;
+background-color: black;
+margin-left: 550px;
+margin-top: -430px;
+
+}
+
+
+/* about me ended */
+
+/* my skill start */
+.myskill{
+    /* border: 2px solid white; */
+    background-color: black;
+    height: 600px;
+    width: 100%;
+}
+
+
+.exper{
+    /* border: 2px solid red; */
+    height: 330px;
+    width: 450px;
+    color: red;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+
+.skills{
+    /* border: 2px solid red; */
+    height: 330px;
+    width: 450px;
+    margin-left: 750px;
+    margin-top: -330px;
+
+}
+
+.skill1{
+    border: 1px solid white;
+    width: 450px;
+    height: 10px;
+    margin-top: 4px;
+}
+
+.in1{
+    border: 1px solid black;
+    background-color:chartreuse;
+    width: 300px;
+    height: 9px;
+}
+
+.in2{
+    border: 1px solid black;
+    background-color:chartreuse;
+    width: 250px;
+    height: 9px;
+}
+
+.in3{
+    border: 1px solid black;
+    background-color:chartreuse;
+    width: 150px;
+    height: 9px;
+}
+.in4{
+    border: 1px solid black;
+    background-color:chartreuse;
+    width: 225px;
+    height: 9px;
+}
+.in5{
+    border: 1px solid black;
+    background-color:chartreuse;
+    width: 150px;
+    height: 9px;
+}
+.in6{
+    border: 1px solid black;
+    background-color:chartreuse;
+    width: 250px;
+    height: 9px;
+}
+/* my skill ends */
+
+/* contact start */
+.contact{
+  /* border: 2px solid red; */
+  margin-top: -80px;
+  background-color: black;
+  width: 100%;
+  height: 450px;
+
+}
+
+.outer{
+    /* border: 2px solid red; */
+    height: 400px;
+    width: 400px;
+    margin-left: 150px;
+    margin-top:48px;
+}
+
+ /* 2nd part */
+  .form{
+   /* border: 2px solid red; */
+   width: 500px;
+    height: 400px;
+    margin-left: 700px;
+    margin-top: -405px;
+  }
+
+/* contact ended */
+
+/* project start */
+  .project{
+    /* border: 2px solid orangered; */
+    margin-top: -100px;
+    background-color: black;
+    height: 1000px;
+    width: 100%;
+  }
+
+  .project1{
+
+    border: 2px solid grey;
+    height: 300px;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+  }
+
+  .project2{
+
+    border: 2px solid grey;
+    height: 300px;
+    width: 300px;
+    margin-left: 520px;
+    margin-top: -300px;
+  }
+
+  .project3{
+
+    border: 2px solid grey;
+    height: 300px;
+    width: 300px;
+    margin-left: 930px;
+    margin-top: -300px;
+  }
+
+/* project ended */
